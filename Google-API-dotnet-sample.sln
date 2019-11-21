@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29424.173
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contacts", "Contacts\Contacts.csproj", "{2995FEE8-C420-46CF-9471-262E6AF03FF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contacts", "Contacts\Contacts.csproj", "{2995FEE8-C420-46CF-9471-262E6AF03FF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gmail", "Gmail\Gmail.csproj", "{362F7B4B-FC82-4094-AE0F-CA1222CC4D28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2995FEE8-C420-46CF-9471-262E6AF03FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2995FEE8-C420-46CF-9471-262E6AF03FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2995FEE8-C420-46CF-9471-262E6AF03FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{362F7B4B-FC82-4094-AE0F-CA1222CC4D28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{362F7B4B-FC82-4094-AE0F-CA1222CC4D28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{362F7B4B-FC82-4094-AE0F-CA1222CC4D28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{362F7B4B-FC82-4094-AE0F-CA1222CC4D28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
